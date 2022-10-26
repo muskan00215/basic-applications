@@ -1,0 +1,100 @@
+body{
+    text-align: center;
+}
+h1{
+    color: gray;
+    background-color: black;
+    font-weight:bold;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 20px;
+    box-shadow: 5px 5px 15px gray;
+
+}
+#evenodd{
+    width: 70%;
+    background-color: rgb(251, 162, 130);
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px gray; 
+      
+}
+#squarecube{
+    width: 70%;
+    background-color: rgb(142, 253, 192);
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px gray;
+    margin-top: 50px;
+    
+}
+button{     
+    background-color: black;   
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    box-shadow: 5px 5px 15px white;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 200px;
+}
+p{
+    font-weight: bold;
+    color: purple;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+input{
+    padding: 7px;
+    border-radius: 10px;
+    border-color: white;
+    text-align: center;
+    font-weight: bold;
+}
+#areaofsquare{
+    width: 70%;
+    background-color: rgb(249, 151, 200);
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px gray;
+    margin-left: 170px;
+    margin-top: 50px;
+    
+}
+label{
+    font-size: 25px;
+}
+#perimeterofrectangle{
+    width: 70%;
+    background-color: rgb(108, 202, 105);
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px gray;
+    margin-left: 170px;
+    margin-top: 50px;
+    
+}
+#areaoftriangle{
+    width: 70%;
+    background-color: rgb(237, 243, 137);
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px gray;
+    margin-left: 170px;
+    margin-top: 50px;
+   
+
+}
+h2{
+ color: black;
+ font-weight: bold;
+ font-family: 'Courier New', Courier, monospace;
+}
+label{
+    color: white;
+ font-weight: bold;
+ font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+   
+
